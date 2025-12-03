@@ -3,6 +3,8 @@
 
 I am a electrical engineering major at CSUF and I plan on graduating in 2029.
 
+The link to my github profile is: https://github.com/ngonzo27
+
 ## Favorite CPSC 120L Labs
 
 * Lab 4 Part 2:
